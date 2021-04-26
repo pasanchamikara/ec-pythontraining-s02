@@ -16,7 +16,7 @@ git clone https://github.com/pasanchamikara/ec-pythontraining-s02.git
 
 * Create a new branch based on main branch.
 
-git checkout -b <your-github-username>
+git checkout -b _your-github-username_
 
 * Work on the exercises
 
